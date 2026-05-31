@@ -4,7 +4,7 @@ Goal of this project is to iteratively find the maximum output for eight differe
 For the next week, inputs and outputs of the previous week is then added to the original inputs and outputs and fed into the functions. Functions processes this input and gives the result back.
 This cycle is repeated for each of the 8 functions for 13 weeks.
 
-**Structure**  
+## Structure
 This repository contains  
 Code  
 Data  
