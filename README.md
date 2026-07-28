@@ -46,7 +46,8 @@ utilities
 ```
 
 ## Documentation
-- [Model Card](ModelCard.md) 
+- [Data Sheet](DATASHEET.md)
+- [Model Card](MODELCARD.md) 
 
 ## Inputs and Outputs
 Each black-box function accepts a vector of continuous numeric inputs and returns a single scalar value.  
