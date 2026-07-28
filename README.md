@@ -45,9 +45,8 @@ utilities
 |__ common_functions.py
 ```
 
-DATASHEET.md – Datasheet outlining dataset characteristics, provenance, and known limitations.
-
-MODELCARD.md – Model card detailing the Bayesian optimization approach, design choices, assumptions, and constraints.  
+## Documentation
+[Model Card] (ModelCard.md) 
 
 ## Inputs and Outputs
 Each black-box function accepts a vector of continuous numeric inputs and returns a single scalar value.  
