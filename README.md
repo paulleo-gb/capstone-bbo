@@ -63,6 +63,8 @@ Function-8: 8D
 
 Output: Each function returns a scalar number. It can be positive or negative. Higher the values better are the results.
 
+List of all the inputs and outputs can be found in 
+
 ## Technologies
 <ul>
   <li>Jupyter note books</li>
